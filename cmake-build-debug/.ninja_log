@@ -1,0 +1,6 @@
+# ninja log v6
+10	470	7701785259157902	build.ninja	b657842e7fdb9c27
+3	1494	7701785259710161	CMakeFiles/Lab_7_oop.dir/main.cpp.obj	9f5dbc0af85da1ad
+9	1638	7701785259770158	CMakeFiles/Lab_7_oop.dir/ProxyPattern.cpp.obj	3712efa0c4bc7f1f
+18	2209	7701785259860185	CMakeFiles/Lab_7_oop.dir/FlyweightPattern.cpp.obj	74121a7fe65d81b8
+2210	2618	7701785281770479	Lab_7_oop.exe	c7b081975e2c2438
